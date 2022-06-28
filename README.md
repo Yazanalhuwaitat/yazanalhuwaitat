@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yazantaqatqa-JDK
+- 👋 Hi, I’m @Yazanalhuwaitat
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer science
 - 📫 How to reach me my email
