@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yazanalhuwaitat
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning computer science
+- 🌱 I graduated in computer science
 - 📫 How to reach me my email
 
 <!---
